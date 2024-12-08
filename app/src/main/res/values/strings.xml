@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">30DaysApp</string>
+    <string name="picdesc1" />
+    <string name="picdesc2">\n</string>
+    <string name="picdesc3" />
+    <string name="picdesc4" />
+    <string name="picdesc5" />
+    <string name="picdesc6" />
+    <string name="picdesc7" />
+    <string name="picdesc8" />
+    <string name="picdesc9" />
+    <string name="picdesc10" />
+    <string name="picdesc11" />
+    <string name="description_1" />
+    <string name="description_2" />
+    <string name="description_3" />
+    <string name="description_4" />
+    <string name="description_5" />
+    <string name="description_6" />
+    <string name="description_7" />
+    <string name="description_8" />
+    <string name="description_9" />
+    <string name="description_10" />
+    <string name="description_11" />
+</resources>
